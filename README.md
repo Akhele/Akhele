@@ -7,17 +7,82 @@
   <img src="https://img.shields.io/github/followers/Akhele?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akhele&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║     ██████╗  ██████╗ ██████╗  ██████╗ ████████╗██╗ ██████╗███████╗  ║
+║     ██╔══██╗██╔═══██╗██╔══██╗██╔═══██╗╚══██╔══╝██║██╔════╝██╔════╝  ║
+║     ██████╔╝██║   ██║██████╔╝██║   ██║   ██║   ██║██║     ███████╗  ║
+║     ██╔══██╗██║   ██║██╔══██╗██║   ██║   ██║   ██║██║     ╚════██║  ║
+║     ██║  ██║╚██████╔╝██████╔╝╚██████╔╝   ██║   ██║╚██████╗███████║  ║
+║     ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝    ╚═╝   ╚═╝ ╚═════╝╚══════╝  ║
+║                                                                      ║
+║        🤖 IoT Engineer | Embedded Systems | Automation 🤖           ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
+## 💭 About Me
+
+<div align="center">
+
+```
+    ╔═══════════════════════════════════════════════════════════╗
+    ║          🤖 "One day Closer to the Checkmate.." ♟️        ║
+    ╚═══════════════════════════════════════════════════════════╝
+    
+         ___
+        {o,o}     < Coding robots, building the future! >
+        |)__)
+        -"-"-
+        
+    ⚡ MISSION: Automate Everything | Innovate | Create ⚡
+```
+
+</div>
+
+```csharp
+public !void FullStackDeveloper() 
+{
+    // 💻 Software Development
+    var desktop    = "C# + VB.NET";
+    var web        = "ASP.NET + PHP + JavaScript + AJAX";
+    var mobile     = "React Native + Flutter + Dart";
+    var games      = "Unity3D + BuildBox";
+    var databases  = "SQL Server + MySQL + Firebase";
+    
+    // 🤖 Robotics & Embedded Systems
+    var robotics   = "Arduino + Raspberry Pi + ESP-32";
+    var embedded   = "C/C++ + Python + MicroPython";
+    var iot        = "LoRa + MQTT + IoT Protocols";
+    var automation = "Sensors + Actuators + Smart Systems";
+    
+    // 🚀 Philosophy
+    Console.WriteLine("Always learning, always growing! 🚀");
+    Console.WriteLine("Building the future, one line of code at a time! 🤖⚡");
+    Console.WriteLine("From Code to Circuit - Making Ideas Reality! ⚙️");
+}
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 ## 🚀 Featured Projects
+
+<div align="center">
+
+```
+    ⚡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⚡
+         🎯 SHOWCASE - Built with Code & Innovation 🎯
+    ⚡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━⚡
+```
+
+</div>
 
 <div align="center">
 
@@ -90,34 +155,17 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
+## 🛠️ Tech Stack & Skills
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
-</div>
 
-## 💭 About Me
-
-> *"One day Closer to the Checkmate.."* ♟️
-
-```csharp
-public !void FullStackDeveloper() 
-{
-    var desktop    = "C# + VB.NET";
-    var web        = "ASP.NET + PHP + JavaScript + AJAX";
-    var mobile     = "React Native + Flutter + Dart";
-    var games      = "Unity3D + BuildBox";
-    var databases  = "SQL Server + MySQL + Firebase";
-    var robotics   = "Arduino + Raspberry Pi + ESP-32 🤖";
-    var embedded   = "C/C++ + Python + MicroPython";
-    var iot        = "LoRa + MQTT + IoT Protocols";
-    
-    Console.WriteLine("Always learning, always growing! 🚀");
-    Console.WriteLine("Building the future, one line of code at a time! 🤖⚡");
-}
+```
+    🤖 ════════════════════════════════════════════════ 🤖
+         From Software to Hardware - Full Stack Expertise
+    ⚙️ ════════════════════════════════════════════════ ⚙️
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🛠️ Tech Stack & Skills
+</div>
 
 <div align="center">
 
@@ -187,6 +235,17 @@ public !void FullStackDeveloper()
 ## 📊 GitHub Statistics
 
 <div align="center">
+
+```
+    ╔══════════════════════════════════════════════════════════╗
+    ║  📊 CODE METRICS & ACHIEVEMENTS 📊                       ║
+    ║  "Measuring Progress, Building Excellence"               ║
+    ╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akhele&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akhele&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
@@ -200,14 +259,60 @@ public !void FullStackDeveloper()
 
 ## 💼 What I'm Currently Working On
 
-- 🤖 Designing and programming **robotics projects** with **Arduino**, **Raspberry Pi**, and **ESP-32**
-- 🔭 Building innovative mobile applications with **Flutter** and **React Native**
-- 🎮 Developing engaging games using **Unity3D**
-- 📡 Implementing **IoT solutions** with LoRa, MQTT, and wireless communication protocols
-- ⚡ Creating embedded systems with **C/C++**, **Python**, and **MicroPython**
-- 🛠️ Integrating sensors, actuators, and microcontrollers for automation projects
-- 👯 Looking to collaborate on open-source **robotics** and **IoT** projects
-- 💬 Ask me about **Full Stack Development**, **Robotics & IoT**, **Game Development**, or **Mobile Apps**
+<div align="center">
+
+```
+    ┌─────────────────────────────────────────────────────────┐
+    │  🔧 ACTIVE PROJECTS & LEARNING GOALS 🔧                 │
+    └─────────────────────────────────────────────────────────┘
+         
+         [████████████] 100%  Robotics & IoT Development
+         [████████████] 100%  Full Stack Applications  
+         [██████████░░]  85%  Embedded Systems Mastery
+         [████████░░░░]  70%  Game Development
+```
+
+</div>
+
+- 🤖 **Robotics Engineering**: Designing and programming with **Arduino**, **Raspberry Pi**, and **ESP-32**
+- 📡 **IoT Solutions**: Implementing LoRa, MQTT, and wireless communication protocols
+- ⚡ **Embedded Systems**: Creating smart devices with **C/C++**, **Python**, and **MicroPython**
+- 🛠️ **Hardware Integration**: Sensors, actuators, and microcontrollers for automation
+- 🔭 **Mobile Development**: Building innovative apps with **Flutter** and **React Native**
+- 🎮 **Game Development**: Creating engaging experiences using **Unity3D**
+- 👯 **Open Source**: Looking to collaborate on **robotics** and **IoT** projects
+- 💬 **Ask Me About**: Full Stack Development | Robotics & IoT | Game Development | Mobile Apps
+
+<div align="center">
+
+```
+    🤖 → 💻 → ⚙️ → 🚀
+    Design | Code | Build | Deploy
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+```
+    ╔═══════════════════════════════════════════════════════════╗
+    ║                                                           ║
+    ║     🏆 ACHIEVEMENTS UNLOCKED - LEVEL UP! 🏆              ║
+    ║                                                           ║
+    ║      "Every commit counts, every project matters"         ║
+    ║                                                           ║
+    ╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akhele&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -262,6 +367,26 @@ public !void FullStackDeveloper()
 ## 📫 Let's Connect
 
 <div align="center">
+
+```
+    ╔═══════════════════════════════════════════════════════════╗
+    ║                                                           ║
+    ║     🌐 CONNECT WITH ME - LET'S BUILD TOGETHER 🌐         ║
+    ║                                                           ║
+    ║         "Collaboration is the key to innovation"          ║
+    ║                                                           ║
+    ╚═══════════════════════════════════════════════════════════╝
+    
+        🤖
+       /█░█\     Feel free to reach out!
+      |░░█░░|    Always open to new projects
+       \░░░/     and collaborations! 
+        |||
+```
+
+</div>
+
+<div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akhele)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
@@ -280,5 +405,22 @@ public !void FullStackDeveloper()
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting!+%E2%9C%A8;%F0%9F%9A%80+Let's+build+something+amazing+together!+%F0%9F%9A%80;%F0%9F%A4%96+Innovating+with+Robotics+%26+IoT!+%F0%9F%A4%96;%E2%9A%A1+Coding+the+Future+of+Automation!+%E2%9A%A1;%E2%99%9F+One+day+closer+to+checkmate...+%E2%99%9F" alt="Footer Typing SVG" />
+</div>
+
+<div align="center">
+
+```
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    
+         ⚡ POWERED BY: Coffee ☕ | Code 💻 | Circuits ⚙️ ⚡
+    
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    
+              🤖 Built with passion & precision 🤖
+         From algorithms to actuators - Making magic happen!
+    
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 </div>
 
