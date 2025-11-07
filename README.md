@@ -7,9 +7,88 @@
   <img src="https://img.shields.io/github/followers/Akhele?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akhele&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Flutter LoRa Private Chat App</h3>
+<div align="center">  
+<a href="https://github.com/Akhele/Flutter-LoRa-private-chat-App" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
+</a>
+<p><strong>Dart</strong> - USB serial communication for private messaging</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Collect Crypto Game</h3>
+<div align="center">
+<a href="https://github.com/Akhele/Collect-Crypto-Game" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
+</a>
+<p><strong>Unity + ShaderLab</strong> - Final Project for Unity Certificate</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Flutter Weather App</h3>
+<div align="center">
+<a href="https://github.com/Akhele/Flutter-Weather-App" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
+</a>
+<p><strong>Dart + Flutter</strong> - A simple and elegant weather application</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Diamond App</h3>
+<div align="center">
+<a href="https://github.com/Akhele/Diamond-App" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
+</a>
+<p><strong>Flutter + Dart</strong> - Just for fun app</p>
+</div>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Flutter Quiz App</h3>
+<div align="center">
+<a href="https://github.com/Akhele/Flutter-Quiz-App" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
+</a>
+<p><strong>Flutter</strong> - Interactive quiz application</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Data Persistence Project</h3>
+<div align="center">
+<a href="https://github.com/Akhele/Data-Persistence-Project" target="_blank">
+<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
+</a>
+<p><strong>C#</strong> - Data persistence implementation</p>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
@@ -105,79 +184,6 @@ public !void FullStackDeveloper()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Flutter LoRa Private Chat App</h3>
-<div align="center">  
-<a href="https://github.com/Akhele/Flutter-LoRa-private-chat-App" target="_blank">
-<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
-</a>
-<p><strong>Dart</strong> - USB serial communication for private messaging</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Collect Crypto Game</h3>
-<div align="center">
-<a href="https://github.com/Akhele/Collect-Crypto-Game" target="_blank">
-<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
-</a>
-<p><strong>Unity + ShaderLab</strong> - Final Project for Unity Certificate</p>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center">Flutter Weather App</h3>
-<div align="center">
-<a href="https://github.com/Akhele/Flutter-Weather-App" target="_blank">
-<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
-</a>
-<p><strong>Dart + Flutter</strong> - A simple and elegant weather application</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Diamond App</h3>
-<div align="center">
-<a href="https://github.com/Akhele/Diamond-App" target="_blank">
-<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
-</a>
-<p><strong>Flutter + Dart</strong> - Just for fun app</p>
-</div>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center">Flutter Quiz App</h3>
-<div align="center">
-<a href="https://github.com/Akhele/Flutter-Quiz-App" target="_blank">
-<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
-</a>
-<p><strong>Flutter</strong> - Interactive quiz application</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Data Persistence Project</h3>
-<div align="center">
-<a href="https://github.com/Akhele/Data-Persistence-Project" target="_blank">
-<img src="https://img.shields.io/badge/Code-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
-</a>
-<p><strong>C#</strong> - Data persistence implementation</p>
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -188,14 +194,6 @@ public !void FullStackDeveloper()
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhele&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Akhele&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akhele&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
