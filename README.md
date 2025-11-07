@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Akhele;Full+Stack+Developer;Game+Developer;Mobile+App+Developer;One+Day+Closer+to+Checkmate+%E2%99%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Akhele;Full+Stack+Developer;Robotics+%26+IoT+Engineer+%F0%9F%A4%96;Game+Developer;Mobile+App+Developer;One+Day+Closer+to+Checkmate+%E2%99%9F" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,6 +11,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+</div>
+
 ## 💭 About Me
 
 > *"One day Closer to the Checkmate.."* ♟️
@@ -18,13 +22,17 @@
 ```csharp
 public !void FullStackDeveloper() 
 {
-    var desktop   = "C# + VB.NET";
-    var web       = "ASP.NET + PHP + JavaScript + AJAX";
-    var mobile    = "React Native + Flutter + Dart";
-    var games     = "Unity3D + BuildBox";
-    var databases = "SQL Server + MySQL + Firebase";
+    var desktop    = "C# + VB.NET";
+    var web        = "ASP.NET + PHP + JavaScript + AJAX";
+    var mobile     = "React Native + Flutter + Dart";
+    var games      = "Unity3D + BuildBox";
+    var databases  = "SQL Server + MySQL + Firebase";
+    var robotics   = "Arduino + Raspberry Pi + ESP-32 🤖";
+    var embedded   = "C/C++ + Python + MicroPython";
+    var iot        = "LoRa + MQTT + IoT Protocols";
     
     Console.WriteLine("Always learning, always growing! 🚀");
+    Console.WriteLine("Building the future, one line of code at a time! 🤖⚡");
 }
 ```
 
@@ -41,6 +49,9 @@ public !void FullStackDeveloper()
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![ShaderLab](https://img.shields.io/badge/ShaderLab-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -71,6 +82,25 @@ public !void FullStackDeveloper()
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### 🤖 Robotics & IoT
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white)
+
+### 📡 IoT Protocols & Communication
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-009FDA?style=for-the-badge&logo=lora&logoColor=white)
+![I2C](https://img.shields.io/badge/I2C-FF6B6B?style=for-the-badge&logo=ic&logoColor=white)
+![SPI](https://img.shields.io/badge/SPI-4A90E2?style=for-the-badge&logo=serial&logoColor=white)
+![UART](https://img.shields.io/badge/UART-00D9FF?style=for-the-badge&logo=uart&logoColor=white)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -172,11 +202,14 @@ public !void FullStackDeveloper()
 
 ## 💼 What I'm Currently Working On
 
+- 🤖 Designing and programming **robotics projects** with **Arduino**, **Raspberry Pi**, and **ESP-32**
 - 🔭 Building innovative mobile applications with **Flutter** and **React Native**
 - 🎮 Developing engaging games using **Unity3D**
-- 🌱 Learning advanced **IoT** integration with LoRa communication
-- 👯 Looking to collaborate on open-source projects
-- 💬 Ask me about **Full Stack Development**, **Game Development**, or **Mobile Apps**
+- 📡 Implementing **IoT solutions** with LoRa, MQTT, and wireless communication protocols
+- ⚡ Creating embedded systems with **C/C++**, **Python**, and **MicroPython**
+- 🛠️ Integrating sensors, actuators, and microcontrollers for automation projects
+- 👯 Looking to collaborate on open-source **robotics** and **IoT** projects
+- 💬 Ask me about **Full Stack Development**, **Robotics & IoT**, **Game Development**, or **Mobile Apps**
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -184,6 +217,46 @@ public !void FullStackDeveloper()
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Akhele/Akhele/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+## 🤖 Robotics & Embedded Systems Journey
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+</div>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  🔧 Hardware Platforms    │  💻 Programming Languages     ║
+║  ━━━━━━━━━━━━━━━━━━━━━━  │  ━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+║  • Arduino Uno/Mega/Nano  │  • C/C++ for embedded systems ║
+║  • Raspberry Pi 3/4       │  • Python for automation      ║
+║  • ESP-32 & ESP8266       │  • MicroPython for MCUs       ║
+║  • STM32 Microcontrollers │  • Assembly (AVR/ARM)         ║
+║                           │                               ║
+║  📡 Communication & IoT   │  ⚙️ Tools & Frameworks        ║
+║  ━━━━━━━━━━━━━━━━━━━━━━  │  ━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
+║  • LoRa Long Range       │  • Arduino IDE                ║
+║  • MQTT Protocol         │  • PlatformIO                 ║
+║  • I2C/SPI/UART          │  • Raspberry Pi OS            ║
+║  • WiFi & Bluetooth      │  • Embedded Linux             ║
+║  • Zigbee & RF Modules   │  • FreeRTOS                   ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -208,6 +281,6 @@ public !void FullStackDeveloper()
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting!+%E2%9C%A8;%F0%9F%9A%80+Let's+build+something+amazing+together!+%F0%9F%9A%80;%E2%99%9F+One+day+closer+to+checkmate...+%E2%99%9F" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Thanks+for+visiting!+%E2%9C%A8;%F0%9F%9A%80+Let's+build+something+amazing+together!+%F0%9F%9A%80;%F0%9F%A4%96+Innovating+with+Robotics+%26+IoT!+%F0%9F%A4%96;%E2%9A%A1+Coding+the+Future+of+Automation!+%E2%9A%A1;%E2%99%9F+One+day+closer+to+checkmate...+%E2%99%9F" alt="Footer Typing SVG" />
 </div>
 
